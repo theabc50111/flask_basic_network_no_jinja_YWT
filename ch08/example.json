@@ -1,0 +1,7 @@
+{
+    "array":[1, 2, "a", {"key": 5}],
+    "bool":true,
+    "str":"str1",
+    "obj2":{"key": 10}
+}
+
